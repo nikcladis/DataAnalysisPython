@@ -1,1 +1,1 @@
-![alt text](https://github.com/nikcladis/Data-Analysis-with-Python/blob/master/certification.png)
+![alt text](https://github.com/nikcladis/Data-Analysis-with-Python/blob/main/certification.png)
